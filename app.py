@@ -15,8 +15,8 @@ import io
 # -----------------------------------------------------------------------------
 st.set_page_config(
     layout="wide",
-    page_title="Hệ thống Phát hiện Gian lận & Rủi ro",
-    page_icon="🛡️"
+    page_title="Hệ thống Phát hiện Gian lận tại Agribank",
+    page_icon="👍"
 )
 
 # -----------------------------------------------------------------------------
@@ -106,7 +106,7 @@ with st.sidebar:
 # -----------------------------------------------------------------------------
 # 4. HEADER - VÙNG ĐỊNH HƯỚNG ỨNG DỤNG
 # -----------------------------------------------------------------------------
-st.title("🛡️ Hệ thống Phân tích & Phát hiện Gian lận Giao dịch")
+st.title("😍😍 Hệ thống và máy Phát hiện Gian lận tại Agribank"😍)
 st.caption("Ứng dụng quản trị thông minh hỗ trợ phân tách rủi ro tín dụng và tự động phát hiện hành vi mặc định (default) từ dữ liệu thực nghiệm.")
 
 # Trình chặn trạng thái rỗng - Kiểm tra dữ liệu đầu vào
